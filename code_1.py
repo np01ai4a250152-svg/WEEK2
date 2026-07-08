@@ -104,4 +104,4 @@ tk.Button(root, text="Submit", command=router).pack(pady=10)
 result = tk.Label(root, text="", font=("Arial", 12))
 result.pack(pady=20)
 
-root.mainloop()
+root.ma
